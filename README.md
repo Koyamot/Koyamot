@@ -8,14 +8,27 @@ In my past life(still practicing when allowed the opportunity) I was a tattoo ar
 ### Dev Stack
 | Tech | Tools |
 | --- | --- |
-| HTML, CSS (less/sass) | GitHub |
-| Javascript | VSCode |
-| ReactJS | PGAdmin 4 |
-| Node.js | SQLite Studio |
-| Knex.js| Ant.Design |
-| Recoil | Heroku |
-| Redux | Vercel |
-| Python | Trello |
+| Nodejs | Express | Knex |
+| Javascript | Python |
+| Postgres | MongoDB |
+| SQL | NoSQL |
+| RESTful APIs | Headless CMS |
+| Heroku | AWS |
+| Docker | Terminal/Bash |
+| Okta | Auth0 |
+| Postman | CI/CD |
+| OOP | Unit Testing |
+| jest | cypress.io |
+| Apollo Client | GraphQL |
+| HTML | Javascript | 
+| Typescript | Notion |
+| Styled-Components | CSS (Less/Sass) |
+| ReactJS | Recoil |
+| Redux | Context |
+| PHP | GitHub |
+| git | VSCode |
+| Vercel | GTM-SS
+
 
 ### UX Stack
 | Skills | Tools |
